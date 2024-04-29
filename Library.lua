@@ -324,7 +324,7 @@ end
 function library.New(self, info, theme)
 
     theme = theme or {
-        accent = c3rgb(255, 0, 0),
+        accent = c3rgb(144, 38, 144),
         dcont = c3rgb(20, 20, 20),
         lcont = c3rgb(40, 40, 40),
         cont = c3rgb(30, 30, 30),
